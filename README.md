@@ -1,3 +1,3 @@
 # Nusli007.github.io
-titel: Sp(R)ts - Hier trainiert Hameln
-description: Karte von Hameln, die jegeliche Art von Sportvereinen und Sportaktivitäten enthält.
+Sp(R)ts - Hier trainiert Hameln
+Karte von Hameln, die jegeliche Art von Sportvereinen und Sportaktivitäten enthält.
